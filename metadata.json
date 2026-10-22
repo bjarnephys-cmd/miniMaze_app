@@ -1,0 +1,6 @@
+{
+  "name": "MazeQuest Mini",
+  "description": "A top-down 2D puzzle adventure with interactive dungeon mazes, pushable blocks, switches, traps, and secrets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
